@@ -6,6 +6,10 @@ win32-plain-sight
 win64-plain-sight
 
 message.txt
+
+build/
+out/
+
 # input name may vary 
 *.png
 *.bmp
