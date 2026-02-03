@@ -15,5 +15,5 @@
 
 ## Usage
 
-Encode: `plain-sight [filename] [message]`
+Encode: `plain-sight [filename] [message]`  
 Decode: `plain-sight [filename]`
