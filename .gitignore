@@ -9,6 +9,7 @@ message.txt
 
 build/
 out/
+tmp.txt
 
 # input name may vary 
 *.png
